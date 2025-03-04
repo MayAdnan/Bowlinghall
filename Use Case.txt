@@ -1,0 +1,7 @@
+Use Case-beskrivning - Registrera spelare:
+
+1. Användaren startar appen. 
+2. Tidigare sparade spelare visas.
+3. Användare skriver namn på spelare. 
+4. Vid angiven namn som redan är sparade visas felmeddelande.
+5. Användaren registeras som spelare och sparas i systemet.

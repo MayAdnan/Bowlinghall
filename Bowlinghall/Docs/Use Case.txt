@@ -1,0 +1,16 @@
+Use Case - Skapa en match mellan två spelare
+
+Aktör: Personal på bowlinghallen
+Beskrivning: Personalen på bowlinghallen ska kunna simulera en match mellan två registrerade spelare och få fram en vinnare. 
+Förutsättnigar: Minst två spelare måste vara registrerad.
+Flöde:
+Personalen startar programmet.
+Personalen skapar en match.
+Personalen väljer två spelare som ska delta i matchen. 
+Matchen simuleras med slumpmässiga poäng.
+Programmet bestämmer en vinnare,
+Deltagande spelare, resultaten för spelare 1 och 2 samt vinnaren loggas. 
+
+
+Alternativ Flöde:
+Personalen skriver cancel för att avbryta matchen och återgår till huvudmeny.
